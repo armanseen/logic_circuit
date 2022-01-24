@@ -3,9 +3,9 @@
  <FRAME activewindow="0">
   <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff0800000009000000f8030000cf020000</PLACEMENT>
   <WINDOW type="default" module="ISIS">
-   <editor metric="0" gridmajor="25400000" mode="00000001" zoom="0" scale="72" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="176388">
+   <editor metric="0" gridmajor="25400000" mode="00000000" zoom="0" scale="72" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="176388">
     <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
-    <centre x="3408929" y="2625764"/>
+    <centre x="3014464" y="3456033"/>
     <origin x="0" y="0"/>
    </editor>
   </WINDOW>
@@ -18,15 +18,15 @@
   </editor>
  </MODULE>
  <MODULE name="ISIS">
-  <editor metric="0" gridmajor="25400000" mode="00000001" zoom="0" scale="72" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="176388">
+  <editor metric="0" gridmajor="25400000" mode="00000000" zoom="0" scale="72" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="176388">
    <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
-   <centre x="3408929" y="2625764"/>
+   <centre x="3014464" y="3456033"/>
    <origin x="0" y="0"/>
   </editor>
  </MODULE>
  <MODULE name="VSMDEBUG">
   <PWI>
-   <POPUP w="800" x="60" flags="00000002" y="392" h="200" pid="0" iid="-1">
+   <POPUP w="800" x="38" flags="00000002" y="157" h="200" pid="0" iid="-1">
     <PROPERTIES>
      <ITEM name="Message Column Width">663</ITEM>
      <ITEM name="ShowGrid">No</ITEM>
